@@ -1,4 +1,4 @@
-# CashWave-Client
+# CashWave-App
 
 **CashWave** is a stock and inventory management application that helps businesses maintain product data, manage categories, create invoices, and generate detailed purchase reports. Built with **React**, **Redux**, **Node.js**, **Express**, and **MongoDB**, it aims to streamline day-to-day operations and enhance efficiency.
 
