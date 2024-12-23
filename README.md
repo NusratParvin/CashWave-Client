@@ -10,8 +10,7 @@
 - [Getting Started](#getting-started)
 - [Scripts](#scripts)
 - [Project Structure](#project-structure)
-- [License](#license)
-
+ 
 ---
 
 ## Features
@@ -83,6 +82,8 @@ npm run dev
 - **`npm run lint`**: Check and fix linting errors (if configured)
 
   
+## Project Structure
+```csharp
 CashWave-Client
 ├── public/                 # Static assets
 ├── src/
@@ -96,8 +97,6 @@ CashWave-Client
 ├── .eslintrc.js            # ESLint configuration
 ├── package.json
 └── vite.config.js          # Vite configuration
- 
-
 
 
 
